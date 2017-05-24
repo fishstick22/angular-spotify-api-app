@@ -1,3 +1,4 @@
-h1 {
-  color: #cc0000;
+.main{
+    border-bottom: #333 1px solid;
+    padding: 30px;
 }
