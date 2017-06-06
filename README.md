@@ -1,5 +1,5 @@
 # angular-spotify-api-app
-Spotify API Angular App
+## Spotify API Angular App
 
 This is one of the "Learn Angular 2 Development By Building 12 Apps" - Eduonix, Brad Traversy... applications
 
